@@ -25,15 +25,15 @@ This repo demonstrates practical C programming skills valuable for systems-level
 
 ## 📦 Included Projects
 
-### 1. **CLI Calculator**
+### 1. [CLI Calculator](https://github.com/DaltonMo/c-learning-projects/tree/main/cli-calculator)
 
 A command-line calculator that supports addition, subtraction, multiplication, and division with input validation and safeguards against divide-by-zero errors.
 
-### 2. **Unit Converter**
+### 2. [Unit Converter](https://github.com/DaltonMo/c-learning-projects/tree/main/unit-converter)
 
 A menu-driven converter for common measurement units like length and weight. Reinforces `switch` statements, loops, and formatted output.
 
-### 3. **Fibonacci, Factorial, & Prime Checker**
+### 3. **Fibonacci, Factorial, & Prime Checker (WIP)**
 
 A number theory toolkit that calculates Fibonacci numbers, factorials, and determines primality using iterative logic.
 
