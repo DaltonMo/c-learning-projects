@@ -73,7 +73,7 @@ double divide(double a, double b) {
 }
 
 void print_welcome() {
-  printf("Welcome to CLI Calulator!\n");
+  printf("Welcome to CLI Calculator!\n");
 }
 
 void print_operation_options() {
